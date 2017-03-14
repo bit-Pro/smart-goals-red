@@ -5,7 +5,7 @@ SMART in this context = Specific, Measureable, Achievable, Relevant and Time-bou
 
 Once you have decided what needs fixing, each member of your group should be assigned a goal to rewrite and must make a new branch to make changes.
 
-All changes must be merged back in using a pull request that is to be reviewed by at least one other team member before merging.
+All changes must be merged back in using a pull request that is to be reviewed by at least one other team member before merging. Follow the lecturer's instructions to protect the master branch in order to require manditory reviewing before merging.
 
 ### Goals to review:
 
