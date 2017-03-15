@@ -9,7 +9,7 @@ All changes must be merged back in using a pull request that is to be reviewed b
 
 ### Goals to review:
 
-1. Hold a meeting
+1. Hold a team meeting a minimum of once a week for the duration of the semester
 2. Attend every single meeting this semester
 3. Improve my writing in the PP2 class by the end of semester
 4. Watch Lynda.com
