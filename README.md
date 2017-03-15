@@ -13,6 +13,6 @@ All changes must be merged back in using a pull request that is to be reviewed b
 2. Attend every single meeting this semester
 3. Improve my writing in the PP2 class by the end of semester
 4. Watch Lynda.com
-5. Learn the basics of Photoshop each week
+5. Learn the relevent basic skills of Photoshop over the course of a week
 6. Complete all set homework by its due date
 7. Read a book about leadership before the end of semester
