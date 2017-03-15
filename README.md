@@ -11,7 +11,7 @@ All changes must be merged back in using a pull request that is to be reviewed b
 
 1. Hold a team meeting a minimum of once a week for the duration of the semester
 2. Attend every single meeting this semester
-3. Improve my writing in the PP2 class by the end of semester
+3. Improve my technical writing in the PP2 class by having it reviewed by the end of semester
 5. Learn the relevent basic skills of Photoshop over the course of a week
 4. Watch 5 Lynda.com videos regarding web design every week during the semester
 6. Complete all set homework by its due date
