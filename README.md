@@ -12,7 +12,7 @@ All changes must be merged back in using a pull request that is to be reviewed b
 1. Hold a meeting
 2. Attend every single meeting this semester
 3. Improve my writing in the PP2 class by the end of semester
-4. Watch 5 Lynda.com videos regarding web design every week 
+4. Watch 5 Lynda.com videos regarding web design every week during the semester
 5. Learn the basics of Photoshop each week
 6. Complete all set homework by its due date
 7. Read a book about leadership before the end of semester
